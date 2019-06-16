@@ -6,4 +6,6 @@ I do like how this works. The learning curve does not appear to be too rough, bu
 it will take some time to master this platform. Over time this example will grow
 and look much better.
 
+I recently added some MATLAB scripts.
+
 -Will
